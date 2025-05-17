@@ -9,9 +9,16 @@ pip install moj-projekt
 ```
 
 ## Użycie
-```python
-import moj_modul
-wynik = moj_modul.funkcja('argument')
-print(wynik)
+```HTML
+<!DOCTYPE html>
+<html>
+<head>
+ <title>Mój Projekt</title>
+</head>
+<body>
+ <h1>Witaj w moim projekcie!</h1>
+ <p>To jest strona startowa mojego projektu.</p>
+</body>
+</html)
 ```
 ## Informacje o licencji
