@@ -3,9 +3,9 @@ Krótki opis czym jest projekt i do czego służy.
 
 ## Instalacja
 ```bash
-npm install moj-projekt
+npm Kacper_Oracz_NDABO
 # lub
-pip install moj-projekt
+pip Kacper_Oracz_NDABO
 ```
 
 ## Użycie
